@@ -1,4 +1,4 @@
-# Bean-Bloom-Cafe-Sales-Customer-Insights
+# Bean Bloom Cafe Sales Customer Insights
 Project Type: Professional Practice / Portfolio Project.
 
 Data Source: Curated dataset from Kaggle (Coffee Shop Sales).
